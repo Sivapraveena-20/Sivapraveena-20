@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Sivapraveena_Palanisamy.
+- 👋 Hi, I’m Sivapraveena_Palanisamy.
 - 👀 I’m interested in Full stack development.
 - 🌱 I’m currently pursuing my Bachelor of Technology in Computer Science and Business Systems(CSBS)
-- 💞️ 
 - 📫 Reach me through: vishalisibi@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact:  When I'm not busy crafting beautiful portfolio websites, managing cultural club dashboards, or
